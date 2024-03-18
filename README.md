@@ -7,4 +7,4 @@ https://www.behance.net/gallery/194204217/Okut-Goester-E-Ticaret-Website
 #
 WEB SİTE: www.okutgoster.com
 
-<img src="public/1.png" alt="Resim Açıklaması" width="800" >
+<img src="1.png" alt="Resim Açıklaması" width="800" >
